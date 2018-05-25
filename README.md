@@ -1,1 +1,2 @@
 # node_simple_chat
+nodeモジュールをインストールしないと使えません
